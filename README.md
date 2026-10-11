@@ -280,10 +280,6 @@ Source code and project files:
 
 [Sign Language Recognition — GitHub](https://github.com/Punyam22/Sign-Language-Recognition)
 
-## License
-
-No license information has been specified in this README. Add a `LICENSE` file if you intend to define how others may use, modify, and distribute the project.
-
 ## Acknowledgements
 
 - [MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/guide) for hand tracking and landmark extraction.
